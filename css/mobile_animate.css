@@ -1,0 +1,78 @@
+/*从下到上start*/
+.two_attract0{
+	animation-name: fadeInUp;
+    animation-duration:1.2s;
+}
+.two_attract1{
+	animation-name: fadeInUp;
+    animation-duration:1.1s;
+}
+.two_attract2{
+	animation-name: fadeInUp;
+    animation-duration:1.0s;
+}
+.two_attract3{
+	animation-name: fadeInUp;
+    animation-duration:0.9s;
+}
+.two_attract4{
+	animation-name: fadeInUp;
+    animation-duration:0.8s;
+}
+
+
+/*从左到右start*/
+.fade_left1{
+	animation-name: fadeInLeft;
+    animation-duration:1s;
+}  
+.fade_left2{
+	animation-name: fadeInLeft;
+    animation-duration:0.8s;
+} 
+
+/*从上到下start*/
+
+.fine_top1 {
+	animation-name: fadeInDown;
+	animation-duration: 0.8s;
+}
+.fine_top2 {
+	animation-name: fadeInDown;
+	animation-duration: 0.9s;
+}
+.fine_top3 {
+	animation-name: fadeInDown;
+	animation-duration: 1.0s;
+}
+.fine_top4 {
+	animation-name: fadeInDown;
+	animation-duration: 1.1s;
+}
+.fine_top5 {
+	animation-name: fadeInDown;
+	animation-duration: 1.2s;
+}
+
+
+/*从右到左start*/
+.fade_right1{
+	animation-name: fadeInRight;
+    animation-duration:0.8s;
+}
+.fade_right2{
+	animation-name: fadeInRight;
+    animation-duration:1s;
+}
+.fade_right3{
+	animation-name: fadeInRight;
+    animation-duration:1.2s;
+}
+.fade_right4{
+	animation-name: fadeInRight;
+    animation-duration:1.4s;
+}
+.fade_right5{
+	animation-name: fadeInRight;
+    animation-duration:1.6s;
+}
